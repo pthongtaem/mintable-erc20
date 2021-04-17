@@ -1,0 +1,1 @@
+a1e48a4bb636335ba149a0aca821a477466438f7dea56eef15bed746bd5ae116  mintable_erc20.wasm
